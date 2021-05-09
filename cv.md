@@ -6,3 +6,4 @@ EDUCATION: Belarusian State University of Transport-2015, Faculty “Industrial 
 PLACE OF WORK: "GOMELLIFT CJSC"
 POSITION: Head of the design department
 COUNTRY: BELARUS
+CITY: GOMEL
